@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Saily</string>
+    
+    
+    <string-array name="gender_array">
+        <item>Women</item>
+        <item>Men</item>
+    </string-array>
+
+    <string-array name="race_array">
+        <item>Hispanic or Latino origin</item>
+        <item>White and European Americans</item>
+        <item>Black and African Americans</item>
+        <item>Hispanic and Latino Americans</item>
+        <item>Asian Americans</item>
+        <item>Native Americans and Alaska Natives</item>
+        <item>Native Hawaiians and other Pacific Islanders</item>
+        <item>All appreciated</item>
+    </string-array>
+
+
+    <string-array name="religion_array">
+        <item>Christian</item>
+        <item>Non-Christian</item>
+        <item>Other Faiths</item>
+        <item>Don't know</item>
+        <item>All appreciated</item>
+    </string-array>
+</resources>
